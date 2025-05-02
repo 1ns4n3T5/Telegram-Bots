@@ -1,0 +1,6 @@
+# .gitignore
+.env
+*.sqlite3
+__pycache__/
+nohup.out
+botenv/
